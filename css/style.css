@@ -1,26 +1,70 @@
 html,
-body,
-header #home {
-  height: 100%;
+body, header #home {
+    height: 100%;
 }
 
 body {
-  padding-top: 50px;
-  position: relative;
+    padding-top: 50px;
+    position: relative;
 }
+
 .spacer {
-  height: 10px;
-  width: 100%;
-  background-color: green;
-  margin: 40px 0;
-  display: block;
+    height: 10px;
+    width: 100%;
+    background-color: green;
+    margin: 40px 0;
+    display: block;
 }
 
 .spacer2 {
-  height: 60px;
-  display: block;
+    height: 60px;
+    display:block
 }
 
 span {
-  color: green;
+    color: green;
 }
+
+.btnlinkedin {
+
+    width: 140px;
+    height: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+     text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: blue;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .btnlinkedin:link, .btnlinkedin:visited {
+    color: #fff;
+  }
+
+  .btnlinkedin:active, .btnlinkedin:hover {
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(65, 175, 212, 0.89);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+
+  #aboutme{
+    padding-top: 40px;
+  }
+
+  #portfolio{
+    padding-top: 40px;
+  }
+
+
+
+
+
+
