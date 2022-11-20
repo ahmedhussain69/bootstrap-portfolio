@@ -2,7 +2,7 @@ Project Title : My Profile
 Link:
 
 https://ahmedhussain69.github.io/bootstrap-portfolio/
-Screenshot of end result:
+![image](https://user-images.githubusercontent.com/83966515/202900380-898acb66-a04d-4573-ada3-a082d6a788bc.png)
 Project Description:
 
 As part of my learning journey to become a front end developer, i was set a tasked to create a new profile page which showcases my BootStrap Skills to produce a portfolio site
@@ -21,9 +21,9 @@ Usage:
 View using a browser and use developer tools to inspect
 Credits:
 
-https://www.w3schools.com/ - excellant information about the syntax and usage, alongside great examples
-https://developer.mozilla.org/ - Great resource getting in-depth information.
-https://getbootstrap.com - Great site for getting snippets of cide and understanding the syntax
+https://www.w3schools.com/ - excellant information about the syntax and usage, alongside great examples<br>
+https://developer.mozilla.org/ - Great resource getting in-depth information.<br>
+https://getbootstrap.com - Great site for getting snippets of cide and understanding the syntax<br>
 License:
 
 MIT
