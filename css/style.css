@@ -1,9 +1,26 @@
 html,
-body, header #home {
-    height: 100%;
+body,
+header #home {
+  height: 100%;
 }
 
 body {
-    padding-top: 50px;
-    position: relative;
+  padding-top: 50px;
+  position: relative;
+}
+.spacer {
+  height: 10px;
+  width: 100%;
+  background-color: green;
+  margin: 40px 0;
+  display: block;
+}
+
+.spacer2 {
+  height: 60px;
+  display: block;
+}
+
+span {
+  color: green;
 }
