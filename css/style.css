@@ -1,0 +1,9 @@
+html,
+body, header #home {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    position: relative;
+}
